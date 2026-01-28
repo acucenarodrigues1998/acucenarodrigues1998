@@ -1,59 +1,80 @@
 # 👋 Hi, I'm Açucena Soares
 
-🎓 Data Scientist | M.Sc. Candidate in Electrical Engineering | AI Researcher  
-📍 Based in Brazil | 💻 Passionate about Machine Learning, NLP, Computer Vision & Generative AI
+🧠 Applied Machine Learning Engineer & Data Scientist  
+📍 Brazil (open to international opportunities)  
+💡 Building end-to-end ML systems — from data understanding to production
 
 ---
 
-### 💡 About Me
+## 💡 About Me
 
-I’m a data scientist with a strong academic and research background, currently working with applied AI solutions in the industry.  
-My journey started in computer vision and medical imaging research, where I worked on CT scan segmentation using deep learning.  
-Over the years, I’ve expanded my expertise to include NLP, time series analysis, and generative AI — working with both proprietary and open-source models.
+I’m an Applied Machine Learning Engineer with a strong Data Science background, working across the full ML lifecycle: data exploration, modeling, evaluation, deployment, and monitoring.
 
-I love building and experimenting with models that turn data into powerful, actionable insights.
+My journey started in computer vision and medical imaging research, building deep learning models for CT scan segmentation. Over time, I expanded into NLP, time series forecasting, explainable AI, and Generative AI — always focused on practical, production-ready solutions.
 
----
+I enjoy translating ambiguous problems into concrete ML systems, balancing model performance, system constraints, and business impact.
 
-### 🧠 What I Work With
-
-- **Languages:** Python (Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow), SQL
-- **Areas:** Machine Learning, Deep Learning, NLP, Computer Vision, Generative AI
-- **Tools:** Docker, Git, HuggingFace, Streamlit, Jupyter Notebooks
-- **Soft Skills:** Research-driven, fast learner, team-oriented, problem solver
+My core identity sits at the intersection of **Data Science + Machine Learning Engineering + Product Thinking.**
 
 ---
 
-### 📌 Current Projects
+## 🧠 What I Work With
 
-- 🔬 **Medical Image Segmentation:** Using CNNs and preprocessing pipelines for detecting lung nodules in CT scans. Focused on improving segmentation accuracy in healthcare imaging.
-- 🤖 **Generative AI Models:** Experimenting with diffusion models and LLMs for generating text, code, and images using Hugging Face Transformers and Stable Diffusion.
-- 🧠 **NLP for Business Intelligence:** Developing NLP pipelines for classification and summarization of corporate documents, including fine-tuning transformer models.
-- 📊 **EDA & Automation:** Creating automated exploratory data analysis (EDA) reports with Python and Streamlit for data quality checks and hypothesis generation.
+### Languages
+- Python (Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow)
+- SQL
+
+### Core Areas
+- Applied Machine Learning & Deep Learning  
+- NLP, Computer Vision, Time Series  
+- Feature Engineering & Model Evaluation  
+- Explainable AI  
+- Production ML Systems  
+- Generative AI (LLMs, RAG, Agents — when they add value)
+
+### Engineering & Cloud
+- AWS (SageMaker, Lambda, S3, DynamoDB, EventBridge)
+- Docker, Git, GitHub Actions
+- FastAPI, Streamlit
+- MLflow, Databricks (PySpark)
+- Vector databases (FAISS / Chroma)
 
 ---
 
-### 📫 Let’s Connect
+## 🏗 What I Like Working On
 
-- 📧 [acucenarodrigues1998@gmail.com](mailto:acucenarodrigues1998@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/acucena-rodrigues/)  
+- **End-to-end ML pipelines:** from raw data to deployed models  
+- **Applied ML problems:** forecasting, fraud detection, NLP, and CV  
+- **Decision-oriented systems:** turning predictions into actions  
+- **Model interpretability and monitoring**  
+- **Scalable ML infrastructure**
+
+---
+
+## 📌 Current Focus
+
+- 📊 Advanced applied ML projects (forecasting, classification, NLP)  
+- 🏗 ML system design, orchestration, and CI/CD  
+- 📈 SQL for analytics and feature generation  
+- 🧠 Model evaluation, drift, and production monitoring  
+- 🤖 Exploring GenAI where it genuinely improves products  
+
+---
+
+## 🌱 How I Think About ML
+
+- Data understanding comes before modeling  
+- Simple models deployed beat complex models on paper  
+- ML only matters when it changes decisions  
+- Tradeoffs (cost, latency, quality) are part of the job  
+
+---
+
+## 📫 Let’s Connect
+
+- 📧 Email: [acucenarodrigues1998@gmail.com](mailto:acucenarodrigues1998@gmail.com)  
+- 💼 LinkedIn: https://www.linkedin.com/in/acucena-soares  
 
 ---
 
 _“The best way to predict the future is to invent it.” – Alan Kay_
-
-
-<!--
-**acucenarodrigues1998/acucenarodrigues1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
