@@ -58,7 +58,7 @@ My core identity sits at the intersection of **Data Science + Machine Learning E
 - 📈 **SQL for analytics** and feature generation
 - 🧠 **Model evaluation**, drift, and production monitoring
 - 🤖 **Exploring GenAI** where it genuinely improves products
-- 🗂 **Building a flashcards application** (learning-driven product, UX + backend)
+- 🗂 **Building an AI based flashcards application** (learning-driven product, UX + backend)
 - 🔥 **Deep learning with PyTorch** (from fundamentals to practical experiments)
 
 ---
